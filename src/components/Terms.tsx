@@ -1,0 +1,49 @@
+import React from 'react';
+
+function Terms() {
+    return (
+        <section className="section">
+            <div className="container">
+                <div className="plain-text">
+                    <h1 className="plain-text__title">Terms and Conditions of Dotted</h1>
+                    <p>Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and to be bound by the terms and conditions as set out below. In addition to this terms and conditions, you hereby agree to comply with any other terms, conditions, policies, dos and don'ts of the website as may be determined by the Company from time to time.</p>
+                    <p>The term "Company" or "us" or "we" or "our" refers to Dotted, its subsidiaries, associates, jointly controlled entities and affiliates (including but not limited to Dotted Group of Companies and Dotted Group of Companies’ associates, jointly controlled entities, affiliates (collectively, "Group").</p>
+                    <p>To ensure the smooth flow of services, we would like to remind you that our products and services are strictly enforced by prevailing terms, conditions, rules or regulations of the necessary agreement governing their use and applications. Please be reminded to read this terms and conditions together with such prevailing terms, conditions, rules or regulations which may affect the usage and/or eventual outcome of events/actions. Should there be any conflict whatsoever, the prevailing terms, conditions, rules or regulations applicable to the specific products or services shall prevail.​</p>
+                    <h2 className="plain-text__subtitle">Disclaimer/Limitation of liability</h2>
+                    <p>The Company shall not be liable or responsible to keep the website virus/bug/ransomware/trojan/work/malware/spyware free or safe and you agree and confirm to use the website solely at your own risk and expense.</p>
+                    <p>Without limiting the generality of any disclaimer in this terms and conditions, you agree that this website is provided “as is” and “as available” and the Company is not obligated in any way whatsoever to correct errors, correct the effects of errors or provide any technical support.</p>
+                    <p>Any use of any information or materials on this website is entirely at your own risk, for which the Company shall not be liable. It shall be your own responsibility to ensure that any materials or information available through this website meets your specific requirements. Please make it your personal responsibility to verify any information available herein. We suggest that you seek independent professional advice before making any form of decision based on information obtained from this website.</p>
+                    <p>You hereby irrevocably and unconditionally release the Company, the Company’s directors, employees, agents and servants from any claims and damages, known and unknown, arising out of or in any way connected with any claim that you may have under this terms and conditions including but not limited to any claim against any third parties.</p>
+                    <p>The Company shall not be liable to you for any loss of profits or other consequential, special, indirect or incidental damages howsoever arising in any way whatsoever out of or in connection with this terms and conditions and/or this website.</p>
+                    <p>The Company reserves the right to seek all remedies available legally and in equity for violations of this terms and conditions.</p>
+                    <h2 className="plain-text__subtitle">Intellectual property</h2>
+                    <p>This website belongs to the Company. The copyright to the contents of this website is owned by or licensed to the Company excluding those intellectual property rights of vendors or alliances who have authorized the Company with the necessary usage and reproductions of the content of this website. This website is intended for personal use, quick reference, illustration and information purposes only and may not be copied, redistributed or published in any manner without the written permission of the Company.</p>
+                    <p>Any unauthorised use of any part of this website is strictly prohibited. You may not copy, modify, publish, or transmit any of the content herein in whole or in part for commercial purposes without the express written permission of the Company - which if granted, would only be extended to our own materials.</p>
+                    <p>The trademarks, logos, characters and service marks (collectively "Trademarks") displayed on this website belongs to the Company excluding those intellectual property rights of vendors or alliances who have authorized the Company with the necessary usage and reproductions of the content of this website. Nothing contained on this website should be construed as granting any license or right to use any Trademark displayed on this website. Any use/misuse of the Trademarks displayed on this website, or any other content on this website, except as provided in these terms and conditions, is strictly prohibited. The Company reserves the rights to bring any action arising from the improper or unauthorised use of this website, including any action for infringement of its trademarks and other intellectual property rights.</p>
+                    <h2 className="plain-text__subtitle">Use</h2>
+                    <p>In this terms and conditions, "Your Content" means the content, materials and information, including, without limitation, information, audio recordings, photographs, videos, documents or other materials that the you create, send, submit, upload, publish, display, link or customise, store or transmit in connection with this website.</p>
+                    <p>You may print, copy and download any content from this website solely for your personal use. You shall not in any way whatsoever alter, copy, distribute, transmit, display, perform, reproduce, publish and/or use for commercial purposes in whole or any part of this website's content without the Company’s prior written consent.</p>
+                    <p>The contents in this website shall not be construed as any inducement, offer and/or confirmation by the Company for you to proceed with any transaction. You shall conduct your own prior checks and due diligence. The specific contents of this website shall only be deemed correct if confirmed in writing by the Company to you.</p>
+                    <h2 className="plain-text__subtitle">Indemnity</h2>
+                    <p>You shall indemnify and keep the Company indemnified against all claims, damages, actions and proceedings made or brought against the Company arising from your use of this website and/or any breach of terms in relation thereto by you.</p>
+                    <h2 className="plain-text__subtitle">Third party websites</h2>
+                    <p>This website may contain link(s) to third-party websites/portal/gateway. This does not imply the Company’s endorsement of any website/portal/gateway, and the Company is not responsible for the actions, content, information or data of third-party websites/portal/gateway or actions or any link(s) contained in them, or any changes or updates to them. Third-party websites/portal/gateway will likely provide their own terms and conditions of use and privacy policies that may apply to you.</p>
+                    <p>Any link(s) to any other websites/portal/gateway are provided as a convenience to you and shall not be construed in any way whatsoever as an endorsement or verification of such websites/portal/gateway and shall be accessed at your own risk.</p>
+                    <p>Third-party websites/portal/gateway are not under the Company's control, and as such the Company shall not be held responsible nor liable for any damage or injury howsoever arising therefrom.</p>
+                    <p>Link(s) to other companies within the Group are subjected to similar degree of disclaimer.</p>
+                    <h2 className="plain-text__subtitle">Variation / Changes</h2>
+                    <p>The Company reserves the right to change, vary or modify any of the information and terms contained herein and on this website at any time without notice.</p>
+                    <h2 className="plain-text__subtitle">Termination / Sespension</h2>
+                    <p>The Company reserves the right to bar any individual, company or group from the use or access to this website.</p>
+                    <p>Termination of access can be executed permanently or over a period of time, in part or in whole, depending on the Company's discretion, at any time without any prior notice or reason. You agree to accept the Company's decision as final and binding.</p>
+                    <h2 className="plain-text__subtitle">Feedback</h2>
+                    <p>You hereby irrevocably and unconditionally assign to the Company all rights, titles and interests in and to any feedback, suggestions, questions, proposals, ideas, inventions, concepts, techniques and/or know-how that you may give the Company regarding the website or any of the Company's businesses without any right to compensation from the Company.​</p>
+                    <h2 className="plain-text__subtitle">Governing Law and Jurisdiction</h2>
+                    <p style={{ marginBottom: '30px' }}>The parties agree that the laws of Romania for the time being in force shall be the governing laws in respect of any disputes pertaining to this terms and conditions and the parties further agree to submit to the non-exclusive jurisdiction of the courts in Romania.</p>
+                </div>
+            </div>
+        </section>
+    )
+}
+
+export default Terms;
