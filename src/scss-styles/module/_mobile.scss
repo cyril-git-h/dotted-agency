@@ -89,6 +89,9 @@
 
 
 @media (max-width: 500px) {
+    .opinions-list__title {
+        font-size: 35px;
+    }
     .service-list__item {
         font-size: 40px;
     }
@@ -97,5 +100,11 @@
     }
     .intro__title {
         font-size: 35px;
+    }
+}
+
+@media (max-width: 400px) {
+    .footer__list {
+        font-size: 25px;
     }
 }

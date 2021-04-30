@@ -5,7 +5,7 @@ import {
 
 function ModalInner(
     { active, setActive }:
-        { active: boolean, setActive: React.Dispatch<React.SetStateAction<boolean>> }
+    { active: boolean, setActive: React.Dispatch<React.SetStateAction<boolean>> }
 ) {
     return (
         <div className="menu">

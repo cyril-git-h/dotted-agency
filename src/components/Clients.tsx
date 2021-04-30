@@ -7,7 +7,7 @@ function Intro() {
                 <div data-aos='fade-up' className="section__item">
                     <h1 className="section__suptitle">We are proud to work with</h1>
                     <h1 className="section__title">Our Clients</h1>
-                    <p className="section__text">Clients with projects proudly crafted by Quart.</p>
+                    <p className="section__text">Clients with projects proudly crafted by Dotted.</p>
                 </div>
                 <ul data-aos='fade-up' className="brands-list">
                     <li className="brands-list__item">
